@@ -1,5 +1,5 @@
 # RTAL-CHAD-002-High-End-Audio-Power-Amplifier
-
+## Stay tuned for more details
 <p align="center">
 <img src="images/RTAL_Power_Amp_1.jpg" width="900">
 

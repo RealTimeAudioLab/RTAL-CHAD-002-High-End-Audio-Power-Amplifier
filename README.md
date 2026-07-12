@@ -4,7 +4,7 @@
 > *A handcrafted reference power amplifier based on the renowned Elektor "Medium Power Amplifier" design.*
 
 <p align="center">
-<img src="images/RTAL_Studio_21.jpg" width="900">
+<img src="images/RTAL_PreAmp_Power-Amplifier.jpg"
 
 ---
 
@@ -29,7 +29,11 @@ Rather than redesigning an already excellent amplifier topology, the goal was to
 
 1. Complete RTAL Reference Audio System
 2. Internal view of the amplifier
+<p align="center">
+<img src="images/RTAL_Power_Amp_1.jpg" width="900">   
 3. Handcrafted amplifier PCB
+<p align="center">
+<img src="images/RTAL_Power_Amp_2.jpg" width="900">   
 
 # Engineering Contributions
 
@@ -60,22 +64,22 @@ Original publication:
 - 01/1991
 - 06/1991
 
-Please insert:
 <p align="center">
 <img src="images/Technical_Data.jpg" width="900">
 - Figure 1 Technical Data
+<p align="center">
+<img src="images/Symmetrical_Design_1.jpg" width="900">    
 - Figure 2 Simplified Circuit
 <p align="center">
-<img src="images/Symetrical_Design_1.jpg" width="900">  
+<img src="images/Symmetrical_Design_2.jpg" width="900">    
 - Figure 3 Symmetrical Design
 <p align="center">
-<img src="images/Symetrical_Design_2.jpg" width="900">    
+<img src="images/Schematic.jpg" width="900">   
 - Figure 4 Complete Circuit
 <p align="center">
-<img src="images/Schematic.jpg" width="900">    
+<img src="images/Power_Supply.jpg" width="900">   
 - Figure 5 Power Supply
-<p align="center">
-<img src="images/Power_Supply.jpg" width="900">  
+
 
 Source acknowledgement:
 T. Giffard, Medium Power Amplifier, Elektor Electronics (1990–1991).

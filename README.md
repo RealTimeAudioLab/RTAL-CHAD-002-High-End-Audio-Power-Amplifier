@@ -79,7 +79,7 @@ Original publication:
 <img src="images/Schematic.jpg" width="900">   
 - Figure 4 Complete Circuit
 <p align="left">
-<img src="images/Power_Supply.jpg" width="900">   
+<img src="images/Power_Supply_.jpg" width="900">   
 - Figure 5 Power Supply
 
 

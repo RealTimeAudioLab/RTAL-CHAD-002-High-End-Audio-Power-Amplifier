@@ -70,13 +70,13 @@ Original publication:
 <img src="images/Technical_Data.jpg" width="900">
 - Figure 1 Technical Data
 <p align="left">
-<img src="images/Symmetrical_Design_1.jpg" width="900">    
+<img src="images/Symmetrical_Design_1_.jpg" width="900">    
 - Figure 2 Simplified Circuit
 <p align="left">
 <img src="images/Symmetrical_Design_2.jpg" width="900">    
 - Figure 3 Symmetrical Design
 <p align="left">
-<img src="images/Schematic.jpg" width="900">   
+<img src="images/Schematic_.jpg" width="900">   
 - Figure 4 Complete Circuit
 <p align="left">
 <img src="images/Power_Supply_.jpg" width="900">   

@@ -28,11 +28,13 @@ Rather than redesigning an already excellent amplifier topology, the goal was to
 # Gallery
 
 1. Complete RTAL Reference Audio System
+<p align="left">
+<img src="images/RTAL_Studio_4.jpg" width="900"> 
 2. Internal view of the amplifier
-<p align="center">
+<p align="left">
 <img src="images/RTAL_Power_Amp_1.jpg" width="900">   
 3. Handcrafted amplifier PCB
-<p align="center">
+<p align="left">
 <img src="images/RTAL_Power_Amp_2.jpg" width="900">   
 
 # Engineering Contributions
@@ -64,19 +66,19 @@ Original publication:
 - 01/1991
 - 06/1991
 
-<p align="center">
+<p align="left">
 <img src="images/Technical_Data.jpg" width="900">
 - Figure 1 Technical Data
-<p align="center">
+<p align="left">
 <img src="images/Symmetrical_Design_1.jpg" width="900">    
 - Figure 2 Simplified Circuit
-<p align="center">
+<p align="left">
 <img src="images/Symmetrical_Design_2.jpg" width="900">    
 - Figure 3 Symmetrical Design
-<p align="center">
+<p align="left">
 <img src="images/Schematic.jpg" width="900">   
 - Figure 4 Complete Circuit
-<p align="center">
+<p align="left">
 <img src="images/Power_Supply.jpg" width="900">   
 - Figure 5 Power Supply
 
